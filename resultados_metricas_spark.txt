@@ -1,0 +1,38 @@
+=== METRICAS DEL MODELO PREDICTIVO (SPARK) ===
+Generado con PySpark en el cluster local/Docker.
+
+--- LOGISTIC REGRESSION ---
+Accuracy:  0.99715
+Precision: 0.99684
+Recall:    0.99715
+F1-Score:  0.99578
+ROC-AUC:   0.91521
+
+--- NAIVE BAYES ---
+Accuracy:  0.98750
+Precision: 0.99556
+Recall:    0.98750
+F1-Score:  0.99125
+ROC-AUC:   0.76977
+
+--- DECISION TREE ---
+Accuracy:  0.99999
+Precision: 0.99999
+Recall:    0.99999
+F1-Score:  0.99999
+ROC-AUC:   0.99851
+
+--- RANDOM FOREST ---
+Accuracy:  0.99999
+Precision: 0.99999
+Recall:    0.99999
+F1-Score:  0.99999
+ROC-AUC:   0.99940
+
+--- GRADIENT BOOSTING (GBT) ---
+Accuracy:  0.99997
+Precision: 0.99997
+Recall:    0.99997
+F1-Score:  0.99997
+ROC-AUC:   0.99885
+
